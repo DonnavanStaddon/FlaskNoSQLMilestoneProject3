@@ -7,7 +7,7 @@ in the future the Admin will not be the only one to create topics
 
 ## Experiance Admin privileges
 
-### To manager and add categires you need to login as admin the login details are below
+### To manager and add categories you need to login as admin the login details are below
 
 ### Login as an Admin
 #### Username: Admin
