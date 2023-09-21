@@ -5,9 +5,13 @@ Headers
 The primary goal of Chat Days is for peple to discuss any topic thats been chosen by the admin
 in the future the Admin will not be the only one to create topics
 
+## Experiance Admin privileges
+
+### To manager and add categires you need to login as admin the login details are below
+
 ### Login as an Admin
 #### Username: Admin
-#### Password: 
+#### Password: 567890
 
 ### Subject Goals
 The goal is for the user  to learn and have fun
