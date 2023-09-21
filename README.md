@@ -43,3 +43,6 @@ I used https://materializecss.com/ for most of the css design of this website
 * Mongo DB https://www.mongodb.com/
 * Jinja https://jinja.palletsprojects.com/en/3.1.x/
 * werkzeug https://werkzeug.palletsprojects.com/en/2.3.x/
+
+## IDE
+* Visual Studio code is the IDE i used
