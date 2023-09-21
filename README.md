@@ -5,11 +5,10 @@ Headers
 https://chatdays-d81d3a7354ce.herokuapp.com/
 
 ## Project Goals
-The primary goal of Chat Days is for peple to discuss any topic thats been chosen by the admin
-in the future the Admin will not be the only one to create topics
+The primary goal of Chat Days is for a user to discuss any topic thats been chosen by the admin.
+In the future the any one will be able to create a topic
 
-## Experiance Admin privileges
-
+## "Experience Admin privileges"
 ### To manager and add categories you need to login as admin the login details are below
 
 ### Login as an Admin
