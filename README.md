@@ -81,3 +81,8 @@ I used https://materializecss.com/ for most of the css design of this website
 2. Open Visual Studio from with Anaconda's Dashboard
 * Anaconda
 * Visual Studio code is the IDE i used
+
+## Testing website for bugs
+
+I used a number of ways to test my website for bugs, i navigated all buttons created many different users, submitted comments, deleted, updated, comments logged in as Admin created many different subjects for disscussion i also used form validation and correct indentation. i used Jigsaw for my css validation
+* https://jigsaw.w3.org/css-validator/validator.html.en 
