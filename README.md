@@ -3,7 +3,11 @@ Headers
 # UX
 ## Project Goals
 The primary goal of Chat Days is for peple to discuss any topic thats been chosen by the admin
-in the future the Admin will not be the only one to creat topics
+in the future the Admin will not be the only one to create topics
+
+### Login as an Admin
+#### Username: Admin
+#### Password: 
 
 ### Subject Goals
 The goal is for the user  to learn and have fun
