@@ -80,6 +80,7 @@ I used https://materializecss.com/ for most of the css design of this website
 1. Install Anaconda
 2. Open Visual Studio from with Anaconda's Dashboard
 * Anaconda
+* Please Note i sometimes used conda install instead of pip install
 * Visual Studio code is the IDE i used
 
 ## Testing website for bugs
